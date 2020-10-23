@@ -1,2 +1,2 @@
-# tik-tak-toe-nxn-v2
+# tik-tak-toe-nxn
 Created with CodeSandbox
